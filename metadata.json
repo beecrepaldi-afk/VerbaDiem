@@ -1,0 +1,5 @@
+{
+  "name": "VerbaDiem",
+  "description": "A Duolingo-style language learning app where users learn a new word each day, focusing on words with interesting origins and etymologies to stimulate creativity. A new word, a new story, every day.",
+  "requestFramePermissions": []
+}
